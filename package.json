@@ -1,0 +1,17 @@
+{
+  "name": "di-workshop-12-async",
+  "version": "1.0.0",
+  "description": "Async JS Workshop",
+  "main": "01-timers-example.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alex Dytrych <alex@ada.ac.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "superagent": "^4.0.0-beta.5",
+    "supertest": "^3.3.0"
+  }
+}
