@@ -52,7 +52,7 @@ describe('GET /facts/:factId', function() {
   })
 
   // TASK 3:
-  // copy a test from above and adapt it to check that /facts/19 returns the
+  // copy a test from above and adapt it to check that /facts/5 returns the
   // fact "Dogs have sweat glands in between their paws."
   it('returns the fact with id 5')
 
