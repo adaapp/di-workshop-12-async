@@ -13,8 +13,8 @@ Make sure this repo has been forked, cloned, and you've run `npm install`.
 
 ## Part 1
 
-Watch the screencast here, and make notes. Code along with the screen cast and
-experiment with the code snippets as you go!
+Watch the screencast here, and make notes. Code along with the video, and at the
+end of each example take some time to experiment with the code we write.
 
 ## Part 2
 
@@ -38,8 +38,8 @@ unimplemented tests inside. Run `npm test`. You should see something like:
   4 pending
 ```
 
-Here, we have a new type of response. Some of our tests have a `-` next to them
-rather than a tick or a cross, and they've been counted at the bottom as
+Here, we have a new type of test result. Some of our tests have a `-` next to
+them rather than a tick or a cross, and they've been counted at the bottom as
 `pending`. That's because we've written the description of the test, but no test
 code - an `it(...)` with no `function`. Adding those is your job!
 
@@ -48,4 +48,11 @@ your tests against the API.
 
 ## Part 3
 
-Start implementing your API tests for the To Dos API!
+- Create a new Node project for automating your to do API tests
+  - Check the
+    [Starting a new Node.js project guide on GitBook](https://adaapp.gitbook.io/digital-innovation/guides/starting-a-new-node.js-project)
+  - Make sure you've installed Mocha, Chai, and SuperTest:
+    ```sh
+    npm install mocha chai supertest
+    ```
+- Start converting your API test plan into automated tests!
