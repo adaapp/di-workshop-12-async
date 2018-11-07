@@ -4,7 +4,7 @@
   "description": "Async JS Workshop",
   "main": "01-timers-example.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --timeout 10000"
   },
   "author": "Alex Dytrych <alex@ada.ac.uk>",
   "license": "ISC",
