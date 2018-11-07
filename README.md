@@ -53,8 +53,12 @@ your tests against the API.
 - Create a new Node project for automating your to do API tests
   - Check the
     [Starting a new Node.js project guide on GitBook](https://adaapp.gitbook.io/digital-innovation/guides/starting-a-new-node.js-project)
+    if you're not sure how
   - Make sure you've installed Mocha, Chai, and SuperTest:
     ```sh
     npm install mocha chai supertest
     ```
 - Start converting your API test plan into automated tests!
+- **IMPORTANT:** Work in the same groups you worked in to define your API tests.
+  Try dividing the work between you by all working on the same Git repository
+  and pushing/pulling the work between you
