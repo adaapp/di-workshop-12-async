@@ -3,7 +3,7 @@ var expect = chai.expect
 var supertest = require('supertest')
 
 // supertest lets us easily test our API
-var api = supertest('http://ada-dog-facts.heroku')
+var api = supertest('http://ada-dog-facts.herokuapp.com')
 
 describe('GET /facts/random', function() {
   // tests to see if we get a 200 status code when we send a GET request
