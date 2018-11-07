@@ -13,8 +13,10 @@ Make sure this repo has been forked, cloned, and you've run `npm install`.
 
 ## Part 1
 
-Watch the screencast here, and make notes. Code along with the video, and at the
-end of each example take some time to experiment with the code we write.
+Watch
+[this screencast](https://adaapp.github.io/screencasts/async-js/index.html), and
+make notes. Code along with the video, and at the end of each example take some
+time to experiment with the code we write.
 
 ## Part 2
 
