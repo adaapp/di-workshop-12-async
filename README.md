@@ -62,3 +62,5 @@ your tests against the API.
 - **IMPORTANT:** Work in the same groups you worked in to define your API tests.
   Try dividing the work between you by all working on the same Git repository
   and pushing/pulling the work between you
+  - If you like, try collaborating with branches and pull requests:
+    https://help.github.com/articles/proposing-changes-to-your-work-with-pull-requests/
